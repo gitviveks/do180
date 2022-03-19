@@ -2,6 +2,6 @@
 
 print "hello do180!";
 
-print "loading..!";
+print "ex180"; 
 
 ?>
